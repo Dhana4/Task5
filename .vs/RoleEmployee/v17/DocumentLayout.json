@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Classroom\\RoleEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E5EDD7-6D3D-4336-9B63-2CF3228792FE}|RoleEmployee\\RoleEmployee.csproj|c:\\classroom\\roleemployee\\roleemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E5EDD7-6D3D-4336-9B63-2CF3228792FE}|RoleEmployee\\RoleEmployee.csproj|solutionrelative:roleemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|c:\\classroom\\roleemployee\\services\\fileemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|solutionrelative:services\\fileemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|c:\\classroom\\roleemployee\\services\\interfaces\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE5CB3-0A20-4AC2-A9E8-AE1FDE1A8647}|Models\\Models.csproj|c:\\classroom\\roleemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE5CB3-0A20-4AC2-A9E8-AE1FDE1A8647}|Models\\Models.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|c:\\classroom\\roleemployee\\services\\employeedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|solutionrelative:services\\employeedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|c:\\classroom\\roleemployee\\services\\interfaces\\irolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|solutionrelative:services\\interfaces\\irolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE5CB3-0A20-4AC2-A9E8-AE1FDE1A8647}|Models\\Models.csproj|c:\\classroom\\roleemployee\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE5CB3-0A20-4AC2-A9E8-AE1FDE1A8647}|Models\\Models.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|c:\\classroom\\roleemployee\\services\\filerolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19228C0E-5A3C-4B4F-A096-B71515E37C18}|Services\\Services.csproj|solutionrelative:services\\filerolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9614F19-AC34-44BA-AEEB-3FB44EB63114}|Repository\\Repository.csproj|c:\\classroom\\roleemployee\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9614F19-AC34-44BA-AEEB-3FB44EB63114}|Repository\\Repository.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoleManager.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Services\\Interfaces\\IRoleManager.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRoleManager.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Services\\Interfaces\\IRoleManager.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRoleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:28:51.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDisplayer.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Services\\EmployeeDisplayer.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeDisplayer.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Services\\EmployeeDisplayer.cs",
+              "RelativeToolTip": "Services\\EmployeeDisplayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:27:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\RoleEmployee\\Program.cs",
+              "RelativeDocumentMoniker": "RoleEmployee\\Program.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\RoleEmployee\\Program.cs",
+              "RelativeToolTip": "RoleEmployee\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:27:19.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileEmployeeManager.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Services\\FileEmployeeManager.cs",
+              "RelativeDocumentMoniker": "Services\\FileEmployeeManager.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Services\\FileEmployeeManager.cs",
+              "RelativeToolTip": "Services\\FileEmployeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:30:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:04:25.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:22:47.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeManager.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Services\\Interfaces\\IEmployeeManager.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmployeeManager.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Services\\Interfaces\\IEmployeeManager.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmployeeManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:38:00.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileRoleManager.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Services\\FileRoleManager.cs",
+              "RelativeDocumentMoniker": "Services\\FileRoleManager.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Services\\FileRoleManager.cs",
+              "RelativeToolTip": "Services\\FileRoleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:33:22.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Classroom\\RoleEmployee\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Classroom\\RoleEmployee\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:23:19.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
